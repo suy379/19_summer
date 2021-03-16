@@ -25,4 +25,4 @@ Data-based insights were derived for more efficient business operation by analyz
 - 할증을 할 수 있는 패턴을 자체적으로 선정(Lead_time), 할증률을 몇% 높일 때 줄어드는 수요와 예상 수익 시뮬레이션 
 - 수치에 관해 보다 더 심화된 접근이 필요했다는 아쉬움, 어떤 장소의 어떤 기간에 가장 수요가 높아질 것이라는 예측도 첨가되었으면 더 좋은 분석이 되었을 듯.
 
-<img src=https://user-images.githubusercontent.com/48719168/111274489-65f9cf80-8678-11eb-9675-a5f752979b77.jpg  width="500" height="500">
+<img src=https://user-images.githubusercontent.com/48719168/111274489-65f9cf80-8678-11eb-9675-a5f752979b77.jpg  width="600" height="500">
